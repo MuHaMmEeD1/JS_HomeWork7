@@ -1,0 +1,17 @@
+.catCinsName {
+  margin-bottom: 20px;
+}
+
+.formCats {
+  display: flex;
+  flex-direction: column;
+  width: 600px;
+}
+.formCats div {
+  display: flex;
+  gap: 20px;
+}
+
+.catDescription {
+  width: 300px;
+}
